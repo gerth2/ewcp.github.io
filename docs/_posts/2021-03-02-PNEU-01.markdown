@@ -28,3 +28,4 @@ _Our recommendations to potential investigators, including:_
 
 ## Prior art
 _Discussion of any existing research that has already been done and exists within the community._
+ - Octave/Matlab simulation of [compressors](https://github.com/RobotCasserole1736/RoboSim/blob/master/Octave/lib/compressor_and_tank.m), [cylinders](https://github.com/RobotCasserole1736/RoboSim/blob/master/Octave/lib/pneumatic_cylinder.m), and [sensors](https://github.com/RobotCasserole1736/RoboSim/blob/master/Octave/lib/pressure_sensor.m).
